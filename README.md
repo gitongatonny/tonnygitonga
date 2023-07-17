@@ -1,5 +1,9 @@
 ### CyberSec💯
 
+- **Web Application Security**
+- **Python**
+- **C**
+
 <!--
 
 - 🔭 I’m currently working on ...
