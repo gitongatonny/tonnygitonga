@@ -4,6 +4,7 @@
 - **Python**
 - **C**
 - **HTML, CSS, JS, PHP**
+- **Prolog**
 
 <!--
 
