@@ -1,9 +1,9 @@
 ### CyberSec💯
 
-- **Web Application Security**
-- **Python**
-- **C**
-- **HTML, CSS, JS, PHP**
+- **Web & Mobile App Security**
+- **WebDev**
+- **Python, C**
+
 
 
 <!--
