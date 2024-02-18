@@ -1,7 +1,7 @@
 ### CyberSec💯
 
 - **Web & Mobile App Security**
-- ** Frontend WebDev**
+- **Frontend WebDev**
 - **Python, C**
 
 
